@@ -141,7 +141,8 @@ This project followed a **real-world Business Intelligence lifecycle** using Mic
 
 If this project interests you or you’d like to collaborate:
 
-📩 [Connect with me on LinkedIn](www.linkedin.com/in/manohark1999)  
+📩 [Connect with me on LinkedIn](https://www.linkedin.com/in/manohark1999)
+ 
 ⭐ Star this repo to support more case studies!
 
 ---
