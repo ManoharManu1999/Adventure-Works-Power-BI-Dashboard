@@ -23,7 +23,7 @@ This Power BI dashboard helps **Adventure Works** management track KPIs and unco
 
 | Executive Summary | Regional Analysis | Product Trends | High-Value Customers |
 |-------------------|-------------------|----------------|----------------------|
-| ![Dashboard Page 1](Images\Page_1.png) | ![Dashboard Page 2](Images/Page_2.png) | ![Dashboard Page 3](Images\Page_3.png) | ![Dashboard Page 4](Images\Page_4.png) |
+| ![Dashboard Page 1](Images/Page_1.png) | ![Dashboard Page 2](Images/Page_2.png) | ![Dashboard Page 3](Images/Page_3.png) | ![Dashboard Page 4](Images/Page_4.png) |
 
 ---
 
