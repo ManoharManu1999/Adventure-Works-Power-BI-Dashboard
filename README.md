@@ -223,8 +223,8 @@ Adjusted Profit =
 ADVENTURE-WORKS-POWER-BI-DASHBOARD/
 │
 ├── 📁 AdventureWorks Raw Data/        # Source CSV files used for modeling
-├── 📁 Images/                         # Dashboard preview screenshots
-├── 📊 AdventureWorks_Report_FINAL.pbix # Power BI report file
+├── 📁 images/                         # Dashboard preview screenshots
+├── 📊 AdventureWorks_Report.pbix      # Power BI report file
 ├── 📄 Report.pdf                      # Exported dashboard report (PDF)
 └── 📘 README.md                       # Project documentation
 ``` 
