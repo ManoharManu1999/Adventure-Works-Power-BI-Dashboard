@@ -1,4 +1,4 @@
-![Banner](images/banner.png)
+![banner](images/banner.png)
 
 # 🚴 Adventure Works Sales & Customer Intelligence Dashboard  
 ### End-to-End Business Intelligence Project | Power BI
